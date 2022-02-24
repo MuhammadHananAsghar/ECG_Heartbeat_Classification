@@ -1,6 +1,10 @@
 # ECG Heartbeat Classification
 
 ```
+I have gained a accuracy of 99.65%.
+```
+
+```
 Loss And Accuracy
 ```
 
